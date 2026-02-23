@@ -12,7 +12,6 @@ A full-stack Invoice Details Module built using the MERN stack.
 - Auto Status Update (DRAFT → PAID)
 - Professional PDF Generation
 - Authentication (Login / Signup)
-- Responsive Dashboard UI
 
 ---
 

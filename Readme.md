@@ -45,7 +45,6 @@ git clone <your-repo-url>
 
 After installing dependencies:
 
-```bash
 npm install
 cd backend && npm install
 cd ../frontend && npm install

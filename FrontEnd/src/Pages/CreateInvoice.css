@@ -1,0 +1,53 @@
+.create-wrapper {
+  background: #1f2937;
+  padding: 40px;
+  border-radius: 20px;
+  color: white;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.form-grid input,
+.form-grid select {
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #374151;
+  background: #111827;
+  color: white;
+}
+
+.items-table {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+.items-table th,
+.items-table td {
+  padding: 12px;
+  border-bottom: 1px solid #374151;
+}
+
+.items-table input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #374151;
+  background: #111827;
+  color: white;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 12px 30px;
+  background: linear-gradient(135deg, #3f5cff, #6c8cff);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
